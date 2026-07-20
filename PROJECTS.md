@@ -6,16 +6,18 @@ This registry tracks the status of Web3 project submissions from African builder
 
 | Project Name & Description | Developer & Country | GitHub Repository | Live Demo / Walkthrough | 📱 Usable dApp | 📝 Setup Guide | 🎥 Demo Video |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: |
-| **DeFi Lending Platform (Sample)**<br>A decentralized lending platform allowing users to earn interest on crypto deposits.<br>*Stack: React, Solidity, The Graph* | Jane Doe<br>🇳🇬 Nigeria | [GitHub Repo](https://github.com/janedoe/defi-lending) | [Live Demo](https://defi-lending.vercel.app) | ✅ | ✅ | ✅ |
-| **Your Project Name**<br>Add a 1-sentence description here.<br>*Stack: React, Solidity, Node.js* | Your Name<br>🌍 Your Country | [Repo Link](https://github.com/your-username/your-repo) | [Demo Link](https://your-live-url.com) | ⏳ | ⏳ | ⏳ |
+| **DeFi Lending Platform (Sample)**<br>A decentralized lending platform allowing users to earn interest on crypto deposits.<br>*Stack: React, Solidity, The Graph*<br>*Contracts: Testnet (`0x...`), Mainnet (`0x...`)* | Jane Doe<br>🇳🇬 Nigeria | [GitHub Repo](https://github.com/janedoe/defi-lending) | [Live Demo](https://defi-lending.vercel.app) | ✅ | ✅ | ✅ |
+| **Your Project Name**<br>Add a 1-sentence description here.<br>*Stack: React, Solidity, Node.js*<br>*Contracts: Testnet / Mainnet addresses (if available)* | Your Name<br>🌍 Your Country | [Repo Link](https://github.com/your-username/your-repo) | [Demo Link](https://your-live-url.com) | ⏳ | ⏳ | ⏳ |
 
 ---
 
 ### How to Add Your Project
 
-To add your project, append a new row to the table above. 
+To add your project, append a new row to the table above.
+
+> **Note:** Please include your smart contract addresses (Testnet and/or Mainnet) if available in your project submission, whether they are verified or unverified.
 
 Template for copying/pasting:
 ```markdown
-| **Your Project Name**<br>Add a 1-sentence description here.<br>*Stack: Tech, Stack, Here* | Your Name<br>🌍 Your Country | [Repo Link](https://github.com/your-username/your-repo) | [Demo Link](https://your-live-url.com) | ⏳ | ⏳ | ⏳ |
+| **Your Project Name**<br>Add a 1-sentence description here.<br>*Stack: Tech, Stack, Here*<br>*Contracts: Testnet (`0x...`), Mainnet (`0x...`)* | Your Name<br>🌍 Your Country | [Repo Link](https://github.com/your-username/your-repo) | [Demo Link](https://your-live-url.com) | ⏳ | ⏳ | ⏳ |
 ```
