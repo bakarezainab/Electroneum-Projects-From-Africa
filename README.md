@@ -29,7 +29,7 @@ To register your project, you only need to add a row to [PROJECTS.md](PROJECTS.m
    ```
 
 ### Step 2: Add Your Project
-Open [PROJECTS.md](PROJECTS.md) and append a new row to the table using the format described inside that file.
+Open [PROJECTS.md](PROJECTS.md) and append a new row to the table using the format described inside that file. Be sure to include smart contract addresses (Testnet and Mainnet) if available in your submission, whether verified or not verified.
 
 ### Step 3: Commit & Push
 ```bash
@@ -52,6 +52,7 @@ Every submitted project should maintain the following standards:
 - **Public Code:** The repository link must be public and accessible.
 - **Runnable Code:** The repository should contain working code with setup instructions.
 - **Electroneum Integration:** The project must be built on or integrated with the Electroneum blockchain network.
+- **Contract Addresses:** Include contract addresses (Testnet and Mainnet) if available in your submission, whether verified or unverified.
 
 ---
 
