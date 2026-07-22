@@ -10,6 +10,8 @@ This registry tracks the status of Web3 project submissions from African builder
 | **Your Project Name**<br>Add a 1-sentence description here.<br>*Stack: React, Solidity, Node.js*<br>*Contracts: Testnet / Mainnet addresses (if available)* | Your Name<br>🌍 Your Country | [Repo Link](https://github.com/your-username/your-repo) | [Demo Link](https://your-live-url.com) | ⏳ | ⏳ | ⏳ |
 | **Electroquest**<br>A Web3 platform to learn about blockchain fundamentals through interactive quests.<br>*Stack: Next.js, Tailwind, Wagmi, Solidity*<br>*Contracts: GameCore (`0xbF4b47E05f0f94e9C264847C1B93f26829dEe4bF`)* | Popoola Rahmat<br>🇳🇬 Nigeria | [GitHub Repo](https://github.com/Rampop01/Electroquest) | [Live Demo](https://electroquest-tan.vercel.app/) | ✅ | ✅ | ⏳ |
 
+| **Recover**<br>Recover is an AI-powered, privacy-first, secure physical item tracking and recovery protocol. By linking printed QR code stickers to an immutable decentralized ownership registry and leveraging AI helper utilities, it allows finders to contact owners instantly and coordinate returns securely—all without exposing the owner's private credentials or wallet address.<br>*Stack: Next.js, Tailwind, Thirdweb, MongoDB, Solidity*<br>*Contracts: Proxy Testnet (`0xb7D165292dA19BE617d7E0C6b983CFA2b3716BFE`)*, Proxy Mainnet (`0x67648938d99bd1809987F18a09f427D8da6C88fd`)* | Isiaq Tajudeen<br>🇳🇬 Nigeria | [GitHub Repo](https://github.com/DevBigEazi/Recover) | [Live Demo](https://recover-iota.vercel.app/) | ✅ | ✅ | ⏳ |
+
 ---
 
 ### How to Add Your Project
